@@ -1,0 +1,23 @@
+[
+  {
+    "id": "212a4470-90e1-4dfa-bffb-02da4e019159",
+    "content": "User is building a RAG application using Python and OpenAI",
+    "category": "context",
+    "created_at": "2026-05-06T17:11:14.032807",
+    "relevance": 0.0
+  },
+  {
+    "id": "b86cf146-dcde-42ac-a215-8760c2d284bc",
+    "content": "User prefers concise answers and clean code",
+    "category": "preference",
+    "created_at": "2026-05-06T17:11:14.032841",
+    "relevance": 0.0
+  },
+  {
+    "id": "7608acf1-0d58-4fa5-8bde-9f546e35f553",
+    "content": "User is working on a hallucination detection library called HallucinationBench",
+    "category": "context",
+    "created_at": "2026-05-06T17:11:14.032848",
+    "relevance": 0.0
+  }
+]
