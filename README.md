@@ -5,6 +5,13 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![OpenAI](https://img.shields.io/badge/powered%20by-OpenAI-412991)
+![PyPI](https://img.shields.io/pypi/v/agentmemory-openai)
+
+## Installation
+
+```bash
+pip install agentmemory-openai
+```
 
 ---
 
